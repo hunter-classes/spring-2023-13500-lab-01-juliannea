@@ -8,7 +8,7 @@ The program will ask the user to input 3 numbers and determine which one of them
 */
 
 #include <iostream>
-
+using namespace std;
 
 int main()
 {
@@ -16,23 +16,23 @@ int main()
     int num2; 
     int num3;
     int num;
-    std::cout << "Enter the first number\n";
-    std::cin >> num1;
-    std::cout << "Enter the second number\n";
-    std::cin >> num2;
-    std::cout << "Enter the thrid number\n";
-    std::cin >> num3;
+    cout << "Enter the first number\n";
+    cin >> num1;
+    cout << "Enter the second number\n";
+    cin >> num2;
+    cout << "Enter the thrid number\n";
+    cin >> num3;
 
     if(num1 < num2)
     {
         num = num1;
         if(num < num3)
         {
-            std::cout << "The smaller of the three is " << num << std::endl;
+            cout << "The smaller of the three is " << num << endl;
         }
         else 
         {
-            std::cout << "The smaller of the three is " << num3 << std::endl;
+            cout << "The smaller of the three is " << num3 << endl;
         }
 
     }
@@ -42,13 +42,13 @@ int main()
         num = num2;
         if(num < num3)
         {
-            std::cout << "The smaller number of the three is " << num << std::endl;
+            cout << "The smaller number of the three is " << num << endl;
         }
         else 
         {
-            std::cout << "The smaller of the three is " << num3 << std::endl;
+            cout << "The smaller of the three is " << num3 << endl;
         }
     }
+    
+    return 0;
 }
-    
-    
