@@ -1,5 +1,8 @@
 #include <iostream>
-
+/*
+    Author: Julianne Aguilar 
+    Username: juliannea
+*/
 int main()
 {
     int year;
