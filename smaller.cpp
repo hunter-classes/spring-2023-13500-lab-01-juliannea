@@ -1,7 +1,8 @@
 /*
 Author: Julianne Aguilar 
+Username: juliannea
 Course: CSCI-135
-Instructor: Gennadiy Maryash
+Instructor: Zamansky
 Assignment: Find the smaller of two integers, Lab1A
 
 The program will ask the user to input 2 numbers and determine which one of them is the smaller one
