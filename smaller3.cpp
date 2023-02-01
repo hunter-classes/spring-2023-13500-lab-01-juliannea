@@ -1,7 +1,8 @@
 /*
 Author: Julianne Aguilar 
+Username: juliannea
 Course: CSCI-135
-Instructor: Gennadiy Maryash
+Instructor: Zamansky
 Assignment: Find the smaller of 3 integers, Lab1B
 
 The program will ask the user to input 3 numbers and determine which one of them is the smaller one
