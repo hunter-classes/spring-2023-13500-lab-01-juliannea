@@ -1,11 +1,8 @@
 /*
-Author: Julianne Aguilar 
-Username: juliannea
-Course: CSCI-135
-Instructor: Zamansky
-Assignment: Find the smaller of two integers, Lab1A
-
-The program will ask the user to input 2 numbers and determine which one of them is the smaller one
+Spring 2023 - Lab 01
+Last name: Aguilar
+First name: Julianne
+GitHub username: juliannea
 */
 
 #include <iostream>
