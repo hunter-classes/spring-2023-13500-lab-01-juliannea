@@ -1,11 +1,8 @@
 /*
-Author: Julianne Aguilar 
-Username: juliannea
-Course: CSCI-135
-Instructor: Zamansky
-Assignment: Find the smaller of 3 integers, Lab1B
-
-The program will ask the user to input 3 numbers and determine which one of them is the smaller one
+Spring 2023 - Lab 01
+Last name: Aguilar
+First name: Julianne
+GitHub username: juliannea
 */
 
 #include <iostream>
