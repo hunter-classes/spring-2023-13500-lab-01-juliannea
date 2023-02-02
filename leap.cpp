@@ -1,8 +1,11 @@
-#include <iostream>
 /*
-    Author: Julianne Aguilar 
-    Username: juliannea
+Spring 2023 - Lab 01
+Last name: Aguilar
+First name: Julianne
+GitHub username: juliannea
 */
+#include <iostream>
+
 int main()
 {
     int year;
